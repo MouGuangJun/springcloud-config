@@ -1,5 +1,2 @@
-server:
-  port: master_dev
-
 datasource:
   driver: com.mysql.jdbc.Driver
