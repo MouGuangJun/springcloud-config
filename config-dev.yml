@@ -1,2 +1,2 @@
 datasource:
-  driver: com.mysql.jdbc.Driver
+  driver: com.mysql.jdbc.Driver1
