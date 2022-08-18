@@ -2,4 +2,4 @@ datasource:
   driver: com.mysql.jdbc.Driver
 web:
   gateway:
-    blacklist: /filter
+    blacklist: /filter,/docker
